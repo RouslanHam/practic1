@@ -1,0 +1,12 @@
+{
+    "name": "rouslanham/test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "RouslanHam",
+            "email": "rurham@yandex.ru"
+        }
+    ],
+    "require": {}
+}
