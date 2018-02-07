@@ -1,6 +1,6 @@
 {
     "name": "ruslanham/package1",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
