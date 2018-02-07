@@ -1,0 +1,16 @@
+{
+    "name": "ruslanham/package1",
+    "type": "project",
+    "license": "MIT",
+    "version": "0.1.0",
+    "authors": [
+        {
+            "name": "RuslanHam",
+            "email": "rurham@yandex.ru"
+        }
+    ],
+    "bin": [
+      "bin/brain-games"
+    ],
+    "require": {}
+}
